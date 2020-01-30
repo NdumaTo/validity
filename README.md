@@ -106,6 +106,8 @@ Validators that currently exist and can be used:
 - [validity-required-options](https://www.npmjs.com/package/validity-required-options)
 - [validity-required](https://www.npmjs.com/package/validity-required)
 - [validity-string-represents-mongodb-objectid](https://www.npmjs.com/package/validity-string-represents-mongodb-objectid)
+- [validity-telephone-number](https://www.npmjs.com/package/validity-telephone-number)
+- [validity-text-length](https://www.npmjs.com/package/validity-text-length)
 - [validity-ukpostcode](https://www.npmjs.com/package/validity-ukpostcode)
 - [validity-unique-property](https://www.npmjs.com/package/validity-unique-property)
 - [validity-url \*](https://www.npmjs.com/package/validity-url)
